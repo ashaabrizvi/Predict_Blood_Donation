@@ -26,5 +26,11 @@ Also, along with prediction prediction probability is also specified.
 
 Here are some screenshots from the app.
 
+![](screenshots/1.png)
+
+![](screenshots/2.png)
+
+![](screenshots/3.png)
+
 
 
