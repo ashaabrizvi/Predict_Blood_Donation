@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run blooddonation.py
+web: sh setup.sh && streamlit run blood_donation.py
