@@ -11,7 +11,7 @@ Forecasting blood supply is a serious and recurrent problem for blood collection
 In this Project, you will work with data collected from the donor database of Blood Transfusion Service Center in Hsin-Chu City in Taiwan. The center passes its blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months. The dataset, obtained from the UCI Machine Learning Repository, consists of a random sample of 748 donors. Your task will be to predict if a blood donor will donate within a given time window. You will look at the full model-building process: from inspecting the dataset to using the tpot library to automate your Machine Learning pipeline.
 
 
-Here, The model is used is Logistic Regression as we have select the model using TPOT library. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+Here, The model used is Logistic Regression as we have select the model using TPOT library. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 In App, Specify the Input Parameters i.e are ,
 
