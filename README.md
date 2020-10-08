@@ -1,8 +1,8 @@
 # Predict Blood Donation for Future Expectancy
 
-Have a look at it - 
+Have a look at the deployed app on AWS EC2 Instance-
 
-https://predictblooddonation.herokuapp.com/
+https://bit.ly/2Fap4D2
 
 # Problem Statement - 
 
