@@ -13,6 +13,8 @@ In this Project, you will work with data collected from the donor database of Bl
 
 Here, The model used is Logistic Regression as we have select the model using TPOT library. TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
+# Parameters
+
 In App, Specify the Input Parameters i.e are ,
 
 (Recency - months since the last donation)
@@ -23,6 +25,8 @@ In App, Specify the Input Parameters i.e are ,
 Target - (1 stands for donating blood; 0 stands for not donating blood).
 
 Also, along with prediction prediction probability is also specified.
+
+# Screenshots
 
 Here are some screenshots from the app.
 
