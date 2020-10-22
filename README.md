@@ -1,8 +1,10 @@
 # Predict Blood Donation for Future Expectancy
 
 Have a look at the deployed app on AWS EC2 Instance-
-
 https://bit.ly/2Fap4D2
+
+Have a look at the deployed app on Streamlit Share -
+https://share.streamlit.io/ashaabrizvi/predict_blood_donation/main/blood_donate.py
 
 # Problem Statement - 
 
