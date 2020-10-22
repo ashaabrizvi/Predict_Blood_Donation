@@ -1,6 +1,6 @@
 # Predict Blood Donation for Future Expectancy
 
-Have a look at the deployed app on AWS EC2 Instance-
+Have a look at the deployed app on AWS EC2 Instance-(Currently stopped due to fixed number of hours on Free tier limit)
 https://bit.ly/2Fap4D2
 
 Have a look at the deployed app on Streamlit Share -
